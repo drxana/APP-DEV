@@ -20,4 +20,4 @@ Charmander can be found in hot, mountainous areas. However, it is found far more
 
 **which evolves into Charizard starting at level 36.**
 ![image](https://github.com/drxana/APP-DEV/assets/152495372/932b18e6-13ca-483b-83ef-f6c8e198776c)
-
+ 
